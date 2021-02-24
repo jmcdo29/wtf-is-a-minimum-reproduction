@@ -41,3 +41,5 @@ There's a few reasons to provide a minimum reproduction:
 
 1. it makes debugging where the error _could_ be so much easier. Instead of looking across 20 files and 5 directories, it's now 2 files in 1 directory. Much less to dig through and understand
 2. half the time while creating the minimum reproduction, you'll find what the problem was yourself and grow as a developer and as a knowledge sharer.
+
+* [Check out StackOverflow's defintion of a minimum reproduciton](https://stackoverflow.com/help/minimal-reproducible-example)
