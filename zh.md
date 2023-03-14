@@ -19,15 +19,15 @@
 有关如何复现错误的一组清晰、明了的步骤。如果你需要，你也可以将设置和复制步骤分开。下面是一个例子：
 
 ```
-# Setup
+# 设置
 1) npm install
 
-# Reproduction
+# 复现
 
 1) npm run start:dev
-2) open new terminal
+2) 打开新的终端
 3) curl http://localhost:3000/users
-4) see the error
+4) 查看错误
 ```
 
 ## 好，我已明白它是什么，我还需要什么？
