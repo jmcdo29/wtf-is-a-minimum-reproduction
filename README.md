@@ -43,3 +43,7 @@ There's a few reasons to provide a minimum reproduction:
 2. half the time while creating the minimum reproduction, you'll find what the problem was yourself and grow as a developer and as a knowledge sharer.
 
 * [Check out StackOverflow's defintion of a minimum reproduciton](https://stackoverflow.com/help/minimal-reproducible-example)
+
+## Other Languages
+
+- [简体中文](./zh.md)
